@@ -69,4 +69,4 @@ export const query = graphql`
     mainPageTitle: fieldTermsMainPageTitle
     subtitleTitle: fieldTermsSubtitle
   }
-`;sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+`;ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
